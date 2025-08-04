@@ -1,0 +1,11 @@
+TOKEN=
+DSN=
+CHANNEL_ID= # Misc Msgs
+REQUIRED_ROLE_ID= # Required role for session command(s)
+VOTE_LOG_CHANNEL_ID=
+ERLC_KEY=
+ROLE_TO_PING= # Role(s) that pings upon sessions
+DEV=
+INFRACTION_CHANNEL=
+IA=
+STAFF_CHANNEL_ID=
